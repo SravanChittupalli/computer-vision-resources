@@ -14,7 +14,8 @@ Welcome to Computer Vision study group. Here you can find all the resources to l
   - [Blogs](#blogs)
 
 ## Mathematics
- * [Kalman filter](https://www.youtube.com/watch?v=d0D3VwBh5UQ)
+ * [Calculus](https://www.youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr)
+ * Kalman filter - [Video](https://www.youtube.com/watch?v=d0D3VwBh5UQ), [Blog](https://www.bzarg.com/p/how-a-kalman-filter-works-in-pictures/)
  * [Digital Signal Processing](https://www.youtube.com/watch?v=hVOA8VtKLgk&list=PLuh62Q4Sv7BUSzx5Jr8Wrxxn-U10qG1et&index=1)
  * [Support Vector Machines](https://www.youtube.com/watch?v=_PwhiWxHK8o)
 
@@ -26,9 +27,12 @@ Welcome to Computer Vision study group. Here you can find all the resources to l
  * [fast.ai course v3](https://course.fast.ai/) - Jeremy Howard
  * [Andrew NG Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning)
  * [UDACITY: Introduction to Computer Vision](https://www.udacity.com/course/introduction-to-computer-vision--ud810)
+ * [CMU 16-385](http://www.cs.cmu.edu/~16385/)
+ * [IIT Bombay CS763](https://www.cse.iitb.ac.in/~ajitvr/CS763_Spring2017/)
  
 ## Books
  * [Computer Vision](http://szeliski.org/Book/) - Rick Szeliski
+ * [Computer Vision - A Modern Approach](https://github.com/yihui-he/computer-vision-tutorial/blob/master/Computer%20Vision%20A%20Modern%20Approach%202nd%20Edition.pdf) - Forsyth and Ponce
  * [Feature ExtractionandImage Processing](https://theswissbay.ch/pdf/Gentoomen%20Library/Artificial%20Intelligence/Computer%20Vision/Feature%20Extraction%20in%20Computer%20Vision%20and%20Image%20Processing%20-%20Mark%20S.%20Nixon.pdf) - Mark S. Nixon and Alberto S. Aguado
   
 ## Research-Papers
