@@ -46,6 +46,7 @@ Welcome to Computer Vision study group. Here you can find all the resources to l
  * [YOLO v3 from scratch in PyTorch](https://blog.paperspace.com/how-to-implement-a-yolo-object-detector-in-pytorch/)
  * [Simple Lane Detection with OpenCV](https://medium.com/@mrhwick/simple-lane-detection-with-opencv-bfeb6ae54ec0)
  * [Tombone's Computer Vision Blog](https://www.computervisionblog.com/)
+ * [Computer Vision 2020](https://towardsdatascience.com/guide-to-learn-computer-vision-in-2020-36f19d92c934)
 
 
 ## Other Resources
