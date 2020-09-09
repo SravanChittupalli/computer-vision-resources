@@ -43,6 +43,7 @@ Welcome to Computer Vision study group. Here you can find all the resources to l
  * [HOG: Histogram of gradients](www.acemedia.org/aceMedia/files/document/wp7/2005/cvpr05-inria.pdf)
 
 ## Blogs
+ * [Learning cv](https://towardsdatascience.com/learning-computer-vision-41398ad9941f)
  * [YOLO v3 from scratch in PyTorch](https://blog.paperspace.com/how-to-implement-a-yolo-object-detector-in-pytorch/)
  * [Simple Lane Detection with OpenCV](https://medium.com/@mrhwick/simple-lane-detection-with-opencv-bfeb6ae54ec0)
  * [Tombone's Computer Vision Blog](https://www.computervisionblog.com/)
